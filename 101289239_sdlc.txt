@@ -1,7 +1,3 @@
-Name: Dominic Gopalakrishnan
-ID: 101289239
-CRN: 13091
-
 The Importance of DevOps engineer in software development cycle:
 DevOps Engineers hold a grand importance in software development cycles. These engineers improve processes and tasks
 made for the SDLC while providing many benefits while that life cycle is being maintained. The culture of DevOps and
