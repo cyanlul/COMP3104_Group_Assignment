@@ -1,0 +1,13 @@
+Name: Dominic Gopalakrishnan
+ID: 101289239
+CRN: 13091
+
+DevOps Course Information:
+The DevOps Course teaches us the importance of DevOps culture and it's processes. When these processes are applied correctly they can:
+- Drastically reduce IT overhead
+- Remove manual tasks both of a mundane or complex nature
+- Enfore best security practices
+- Expedite product delivery
+- Improve communication and collaboration across teams
+
+Essentially, this course is teaching how to make your life easier when working in the industry by using these processes.
