@@ -1,1 +1,1 @@
-COMP3104 Devops
+COMP3104 Devops is a course that teaches us about the term Devops. 
