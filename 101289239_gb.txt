@@ -1,7 +1,3 @@
-Name: Dominic Gopalakrishnan
-ID: 101289239
-CRN: 13091
-
 George Brown Information:
 GBC, short for George Brown College, is a post-secondary school located in Canada. GBC has three campuses in total
 located in Casa Loma, St. James, and Waterfront. GBC offers many courses for students to take.
