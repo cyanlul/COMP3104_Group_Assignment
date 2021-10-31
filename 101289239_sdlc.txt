@@ -1,0 +1,9 @@
+The Importance of DevOps engineer in software development cycle:
+DevOps Engineers hold a grand importance in software development cycles. These engineers improve processes and tasks
+made for the SDLC while providing many benefits while that life cycle is being maintained. The culture of DevOps and
+its processes allow for reduction of IT overhead, the removal of manual tasks that are both mudane or of a complex nature,
+enforce securitiy practices that prevent breaches that could occur, expedite product delivery, and improve communication
+and collaboration across teams. With these benefits being availiable when you have a DevOps engineer in the SDLC tasks
+and processes are speed up and the organization of the project is at an extreme high. DevOps engineer's processes and their 
+methodology also allows for a reduction of complexity, which as a result, allows for accelerated innovation between teams
+during development and maintenance.
