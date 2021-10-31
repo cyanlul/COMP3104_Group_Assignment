@@ -1,4 +1,6 @@
 101266937-Kunga
 
 SDLC in full form is "Systems Development Life Cycle". It is life-cycle or process of application development
-and it is a process for planning, creating, testing, and deploying an information system.
+and it is a process for planning, creating, testing, and deploying an information system. SDLC allows
+devlopers to analyze the requirements and it also helps with reducing unnecessary costs during
+development.
