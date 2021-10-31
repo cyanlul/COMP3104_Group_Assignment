@@ -2,4 +2,5 @@
 
 Devops course is created for the purpose of allowing students to have a better preperation when entering
 into the IT field. This course allows the students to learn about implementation of tried, tested,
-and true DevOps technologies.
+and true DevOps technologies. DevOps allows you to ease the process of shipping code, modifying files,
+applying fixes or patches and overall eases the process of committing changes to your application.
